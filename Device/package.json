@@ -1,5 +1,5 @@
 {
-  "name": "iot-workbench-simulator-send_batch",
+  "name": "iot-workbench-simulator-send-batch",
   "version": "0.1.0",
   "main": "send_batch.js",
   "dependencies": {
